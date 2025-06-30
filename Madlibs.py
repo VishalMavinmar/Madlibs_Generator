@@ -1,5 +1,5 @@
 
-with open("story.txt","r") as f:
+with open("Madlibs_Text.txt","r") as f:
     story = f.read()
 
 word =set()
